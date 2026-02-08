@@ -1,0 +1,1 @@
+Breast cancer prediction refers to the use of clinical data, imaging results, genetic information, and/or machine learning techniques to estimate the likelihood that a breast tumor is malignant (cancerous) or benign (non-cancerous). The goal is early detection and accurate diagnosis, which significantly improves treatment outcomes and survival rates.
